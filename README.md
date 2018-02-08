@@ -6,5 +6,5 @@ Balancer is a side project I created while in high school.  I came up with this 
 
 
 
-## Example: Al+O<sub>2</sub> -->  Al<sub>2</sub>O<sub>3</sub>
+## Example: Al+O<sub>2</sub> -->  Al<sub>2</sub>O<sub>3</sub><br />
 ![alt text](https://github.com/theRoughCode/Balancer/blob/master/Capture1.PNG "Example")
